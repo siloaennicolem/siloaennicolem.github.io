@@ -1,0 +1,6 @@
+<!-- myfxbook.com Market widget - Start -->
+<div>
+    <script class="powered" type="text/javascript" src="https://widgets.myfxbook.com/scripts/fxMarkets.js"></script>
+</div>
+<script type="text/javascript">showMarketsWidget()</script>
+<!-- myfxbook.com Market widget - End -->
